@@ -11,4 +11,4 @@ The goal of this list is to create and consolidate a list of various tools, util
 
 - [Game Distribution Platforms]() - These are the sites that act as a digital store front and content delivery network for games
 
-- [Miscellaneous and Unsorted Tools](miscelaneous-en.md) - Contains the 'to-do' list and all links that have yet to be sorted
+- [Miscellaneous and Unsorted Tools](miscellaneous-en.md) - Contains the 'to-do' list and all links that have yet to be sorted
