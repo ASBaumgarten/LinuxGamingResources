@@ -4,6 +4,7 @@
 
 - [ ] Finalize formatting requirements in formatting.md
 - [ ] Sort all unsort links from miscellaneous-en.md
+- [ ] Clearly lable all applicable sites, programs, and products as Open Source
 
 
 ## Unsorted and Miscellaneous links
@@ -19,3 +20,5 @@
 - [OpenRazer](https://github.com/openrazer/openrazer) - A collection of Linux drivers for the Razer devices, providing kernel drivers, DBus services and python bindings to interact with the DBus interface.
 
 - [razerCommander](https://github.com/GabMus/razerCommander) - GTK contol center for managing razer peripherals on Linux
+
+- [Quantum Mechanical Keyboard Firmware](https://github.com/qmk/qmk_firmware) - This is a keyboard firmware based on the tmk_keyboard firmware with some useful features for Atmel AVR and ARM controllers, and more specifically, the OLKB product line, the ErgoDox EZ keyboard, and the Clueboard product line.
