@@ -6,7 +6,6 @@
 - [ ] Sort all unsort links from miscellaneous-en.md
 - [ ] Clearly lable all applicable sites, programs, and products as Open Source
 
-
 ## Unsorted and Miscellaneous links
 
 - [ckb-next: RGB Driver for Linux and macOS](https://github.com/ckb-next/ckb-next) - Corsair RGB driver for Corsair keyboards and mice
@@ -38,3 +37,7 @@
 - [Steam Client](https://store.steampowered.com/about/) - Desktop client for Steam. 
 
 - [GOG.com](https://www.gog.com/) - A digital distribution platform for video games and films. It is operated by GOG Sp. z o.o., a wholly owned subsidiary of CD Projekt.
+
+- [msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) - This progam allows to control the SteelSeries per-key RGB keyboard backlighting on MSI laptops such as the GE63VR. It will not work on models with region-based backlighting (such as GE62VR and others).
+
+- [SC Controller](https://github.com/kozec/sc-controller) - 
