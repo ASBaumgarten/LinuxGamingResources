@@ -23,15 +23,15 @@
 
 - [ ] [Quantum Mechanical Keyboard Firmware](https://github.com/qmk/qmk_firmware) - This is a keyboard firmware based on the tmk_keyboard firmware with some useful features for Atmel AVR and ARM controllers, and more specifically, the OLKB product line, the ErgoDox EZ keyboard, and the Clueboard product line.
 
-- [ ] [Bitfocus Companion](https://github.com/bitfocus/companion) - Enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
+- [x] [Bitfocus Companion](https://github.com/bitfocus/companion) - Enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 
-- [ ] [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place. GameHub supports multiple game sources and services: Steam, GOG, Humble Bundle, Humble Trove.
+- [x] [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place. GameHub supports multiple game sources and services: Steam, GOG, Humble Bundle, Humble Trove.
 
-- [ ] [Games Nebula](https://github.com/yancharkin/games_nebula) - Unofficial Linux client for GOG.
+- [x] [Games Nebula](https://github.com/yancharkin/games_nebula) - Unofficial Linux client for GOG.
 
-- [ ] [Lutris](https://github.com/lutris/lutris) - An open source gaming platform that makes gaming on Linux easier by managing, installing and providing optimal settings for games.
+- [x] [Lutris](https://github.com/lutris/lutris) - An open source gaming platform that makes gaming on Linux easier by managing, installing and providing optimal settings for games.
 
-- [ ] [PlayOnLinux](https://www.playonlinux.com/en/) - A piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®.
+- [x] [PlayOnLinux](https://www.playonlinux.com/en/) - A piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®.
 
 - [ ] [Steam](https://store.steampowered.com/) -  A digital distribution platform developed by Valve Corporation for purchasing and playing video games.
 

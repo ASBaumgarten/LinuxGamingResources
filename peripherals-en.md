@@ -1,4 +1,5 @@
 # Peripheral Utilities  
+
 Controls and utilities for managing different peripherals (mice, keyboards, etc.).
 ___
 
@@ -29,6 +30,15 @@ CLI configuration utility for SteelSeries Rival gaming mice. Works for Linux and
 **Source**: https://github.com/flozz/rivalcfg
 
 **Website**: N/A
+___
+
+## Bitfocus Companion
+
+Enables the reasonably priced Elgato Streamdeck to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
+
+**Source**: https://github.com/bitfocus/companion
+
+**Website**: https://bitfocus.io/companion/
 
 ___
 
