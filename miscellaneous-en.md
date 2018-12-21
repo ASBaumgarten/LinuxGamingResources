@@ -5,6 +5,7 @@
 - [ ] Finalize formatting requirements in formatting.md
 - [ ] Sort all unsort links from miscellaneous-en.md
 - [ ] Clearly lable all applicable sites, programs, and products as Open Source
+- [ ] Mark items as no longer maintained/abandoned if no commits have been in the last year and if no active forks have emerged 
 
 ## Unsorted and Miscellaneous links
 
@@ -16,9 +17,9 @@
 
 - [x] [polychromatic](https://github.com/polychromatic/polychromatic) - A front-end for customising the functionality of your Razer perpherials under GNU/Linux
 
-- [ ] [OpenRazer](https://github.com/openrazer/openrazer) - A collection of Linux drivers for the Razer devices, providing kernel drivers, DBus services and python bindings to interact with the DBus interface.
+- [x] [OpenRazer](https://github.com/openrazer/openrazer) - A collection of Linux drivers for the Razer devices, providing kernel drivers, DBus services and python bindings to interact with the DBus interface.
 
-- [ ] [razerCommander](https://github.com/GabMus/razerCommander) - GTK contol center for managing razer peripherals on Linux
+- [x] [razerCommander](https://github.com/GabMus/razerCommander) - GTK contol center for managing razer peripherals on Linux
 
 - [ ] [Quantum Mechanical Keyboard Firmware](https://github.com/qmk/qmk_firmware) - This is a keyboard firmware based on the tmk_keyboard firmware with some useful features for Atmel AVR and ARM controllers, and more specifically, the OLKB product line, the ErgoDox EZ keyboard, and the Clueboard product line.
 
@@ -40,4 +41,8 @@
 
 - [ ] [msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) - This progam allows to control the SteelSeries per-key RGB keyboard backlighting on MSI laptops such as the GE63VR. It will not work on models with region-based backlighting (such as GE62VR and others).
 
-- [ ] [SC Controller](https://github.com/kozec/sc-controller) - 
+- [x] [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver and GTK3 based GUI for Steam Controller
+
+- [x] [RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux. RazerGenie is using OpenRazer for providing control over Razer peripherals.
+
+- [ ] [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device. Uses OpenRazer.

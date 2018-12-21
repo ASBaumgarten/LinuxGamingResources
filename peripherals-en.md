@@ -32,9 +32,19 @@ CLI configuration utility for SteelSeries Rival gaming mice. Works for Linux and
 
 ___
 
+## OpenRazer
+
+A collection of Linux drivers for the Razer devices, providing kernel drivers, DBus services and python bindings to interact with the DBus interface.
+
+**Source**: https://github.com/openrazer/openrazer
+
+**Website**: https://openrazer.github.io/
+
+___
+
 ## polychromatic
 
-A front-end for customising the functionality of your Razer perpherials under GNU/Linux. Set effects, brightness, colours, DPI and modes supported by the device.
+A front-end for customising the functionality of your Razer perpherials under GNU/Linux. Set effects, brightness, colours, DPI and modes supported by the device. Uses OpenRazer on the backend.
 
 **Source**: https://github.com/polychromatic/polychromatic
 
@@ -42,8 +52,30 @@ A front-end for customising the functionality of your Razer perpherials under GN
 
 ___
 
-## 
+## RazerGenie
 
-**Source**: 
+Qt application for configuring your Razer devices under GNU/Linux. RazerGenie is using OpenRazer for providing control over Razer peripherals.
 
-**Website**: 
+**Source**: https://github.com/z3ntu/RazerGenie
+
+**Website**: N/A
+
+___
+
+## razerCommander
+
+GTK contol center for managing razer peripherals on Linux.
+
+**Source**: https://github.com/GabMus/razerCommander
+
+**Website**: https://gabmus.github.io/razerCommander/
+
+___
+
+## SC Controller
+
+User-mode driver, mapper and GTK3 based GUI for Steam Controller, DS4 and similar controllers.
+
+**Source**: https://github.com/kozec/sc-controller
+
+**Website**: N/A
