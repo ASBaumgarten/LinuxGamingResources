@@ -38,3 +38,13 @@ A piece of software which allows you to easily install and use numerous games an
 
 **Website**: https://www.playonlinux.com/en/
 ___
+
+## Steam Client
+
+Desktop client for Steam.
+
+**Source**: N/A
+
+**Website**: https://store.steampowered.com/about/
+___
+
