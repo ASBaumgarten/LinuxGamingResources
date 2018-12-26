@@ -46,3 +46,11 @@
 - [x] [RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux. RazerGenie is using OpenRazer for providing control over Razer peripherals.
 
 - [ ] [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device. Uses OpenRazer.
+
+- [ ] [Creative Cloud for PlayOnLinux](https://github.com/corbindavenport/creative-cloud-linux) - This is an install script for Adobe Creative Cloud, designed to be used with PlayOnLinux. The script sets up the Adobe Creative Cloud desktop program, which can be used to install and update Photoshop, Lightroom, Dreamweaver, Illustrator, and other apps.
+
+- [ ] [vga Passthrough Reference](https://github.com/saveriomiroddi/vga-passthrough) - Up to date (2018) reference for setting up a VGA passthrough on (Ubuntu) Linux.
+
+- [ ] [VFIO-Tools](https://github.com/PassthroughPOST/VFIO-Tools) - A collection of tools and scripts that aim to make PCI passthrough a little easier.
+
+- [ ] [vfio-pci-bind](https://github.com/andre-richter/vfio-pci-bind) - Automatically bind a PCI device and all of it's IOMMU group members to vfio-pci 
