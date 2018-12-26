@@ -33,11 +33,11 @@
 
 - [x] [PlayOnLinux](https://www.playonlinux.com/en/) - A piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®.
 
-- [ ] [Steam](https://store.steampowered.com/) -  A digital distribution platform developed by Valve Corporation for purchasing and playing video games.
+- [x] [Steam](https://store.steampowered.com/) -  A digital distribution platform developed by Valve Corporation for purchasing and playing video games.
 
-- [ ] [Steam Client](https://store.steampowered.com/about/) - Desktop client for Steam. 
+- [x] [Steam Client](https://store.steampowered.com/about/) - Desktop client for Steam. 
 
-- [ ] [GOG.com](https://www.gog.com/) - A digital distribution platform for video games and films. It is operated by GOG Sp. z o.o., a wholly owned subsidiary of CD Projekt.
+- [x] [GOG.com](https://www.gog.com/) - A digital distribution platform for video games and films. It is operated by GOG Sp. z o.o., a wholly owned subsidiary of CD Projekt.
 
 - [ ] [msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) - This progam allows to control the SteelSeries per-key RGB keyboard backlighting on MSI laptops such as the GE63VR. It will not work on models with region-based backlighting (such as GE62VR and others).
 
