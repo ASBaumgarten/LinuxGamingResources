@@ -3,9 +3,9 @@
 ## To-do list
 
 - [ ] Finalize formatting requirements in formatting.md
-- [ ] Sort all unsort links from miscellaneous-en.md
+- [ ] Determine what applications, drivers, launchers, etc. have shared/overlapping function with other things in the same catergory
 - [ ] Clearly lable all applicable sites, programs, and products as Open Source
-- [ ] Mark items as no longer maintained/abandoned if no commits have been in the last year and if no active forks have emerged 
+- [ ] Mark items as no longer maintained/abandoned if no commits have been in the last year and if no active forks have emerged
 
 ## Unsorted and Miscellaneous links
 
@@ -53,4 +53,6 @@
 
 - [ ] [VFIO-Tools](https://github.com/PassthroughPOST/VFIO-Tools) - A collection of tools and scripts that aim to make PCI passthrough a little easier.
 
-- [ ] [vfio-pci-bind](https://github.com/andre-richter/vfio-pci-bind) - Automatically bind a PCI device and all of it's IOMMU group members to vfio-pci 
+- [ ] [vfio-pci-bind](https://github.com/andre-richter/vfio-pci-bind) - Automatically bind a PCI device and all of it's IOMMU group members to vfio-pci.
+
+- [ ] [Looking Glass](https://looking-glass.hostfission.com/) - Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
