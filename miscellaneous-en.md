@@ -6,6 +6,8 @@
 - [ ] Determine what applications, drivers, launchers, etc. have shared/overlapping function with other things in the same catergory
 - [ ] Clearly lable all applicable sites, programs, and products as Open Source
 - [ ] Mark items as no longer maintained/abandoned if no commits have been in the last year and if no active forks have emerged
+- [ ] Note what distributions are officially supported and/or what repositories the source code can be found in
+- [ ] Label if Snaps, Flatpaks, or Appimages are available
 
 ## Unsorted and Miscellaneous links
 
