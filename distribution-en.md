@@ -19,4 +19,6 @@ ___
 
 ## itch.io
 
-A website for users to host,sell and download indie video games.
+A website for users to host,sell and download indie video games. Released in March 2013 by Leaf Corcoran.
+
+**Website**: https://itch.io/
