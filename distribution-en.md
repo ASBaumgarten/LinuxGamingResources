@@ -17,3 +17,6 @@ A digital distribution platform for video games and films. It is operated by GOG
 **Website**: https://www.gog.com/
 ___
 
+## itch.io
+
+A website for users to host,sell and download indie video games.
