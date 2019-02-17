@@ -66,3 +66,16 @@
 - [ ] [protontricks](https://github.com/Matoking/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 
 - [ ] [MSIKLM](https://github.com/Gibtnix/MSIKLM) - An easy-to-use tool that allows to configure the SteelSeries keyboards of MSI gaming notebooks with Linux / Unix in almost the same way as the SteelSeries Engine can do using Windows.
+
+- [ ] [Linux Steam* Integration](https://github.com/clearlinux/linux-steam-integration) - A helper system to make the Steam Client and Steam games run better on Linux. In a nutshell, LSI automatically applies various workarounds to get games working, and fixes long standing bugs in both games and the client.
+
+- [ ] [GameMode](https://github.com/FeralInteractive/gamemode) - A daemon/lib combo for Linux that allows games to request a set of optimisations be temporarily applied to the host OS.
+
+- [ ] [DXVK](https://github.com/doitsujin/dxvk) - A Vulkan-based translation layer for Direct3D 10/11 which allows running 3D applications on Linux using Wine.
+
+- [ ] [Bottlenose](https://github.com/quinton-ashley/bottlenose) - A high quality front-end launcher for video game emulators! Available on Linux, macOS, and Windows.
+
+- [ ] [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910, GPro.
+
+- [ ] [MSIKLM](https://github.com/Gibtnix/MSIKLM) -
+- [ ] [MSIKLM](https://github.com/Gibtnix/MSIKLM) -
