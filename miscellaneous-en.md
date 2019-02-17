@@ -59,10 +59,10 @@
 
 - [ ] [Looking Glass](https://looking-glass.hostfission.com/) - Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
 
-- [ ] [RetroArch] (https://www.retroarch.com) - A front-end for emulators, game engines, video games, media players and other applications, designed to be fast, lightweight, portable and without dependencies.
+- [ ] [RetroArch](https://www.retroarch.com) - A front-end for emulators, game engines, video games, media players and other applications, designed to be fast, lightweight, portable and without dependencies.
 
-- [ ] [Proton] (https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
+- [ ] [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
 
 - [ ] [protontricks](https://github.com/Matoking/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 
-- [ ] [MSIKLM (https://github.com/Gibtnix/MSIKLM) - An easy-to-use tool that allows to configure the SteelSeries keyboards of MSI gaming notebooks with Linux / Unix in almost the same way as the SteelSeries Engine can do using Windows.
+- [ ] [MSIKLM](https://github.com/Gibtnix/MSIKLM) - An easy-to-use tool that allows to configure the SteelSeries keyboards of MSI gaming notebooks with Linux / Unix in almost the same way as the SteelSeries Engine can do using Windows.
