@@ -62,7 +62,7 @@
 - [ ] [RetroArch] (https://www.retroarch.com) - A front-end for emulators, game engines, video games, media players and other applications, designed to be fast, lightweight, portable and without dependencies.
 
 - [ ] [Proton] (https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
-
+- [ ] [Looking Glass](https://looking-glass.hostfission.com/) 
 - [ ] [protontricks] (https://github.com/Matoking/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 
 - [ ] [MSIKLM (https://github.com/Gibtnix/MSIKLM) - An easy-to-use tool that allows to configure the SteelSeries keyboards of MSI gaming notebooks with Linux / Unix in almost the same way as the SteelSeries Engine can do using Windows.
