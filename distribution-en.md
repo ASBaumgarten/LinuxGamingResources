@@ -16,4 +16,3 @@ A digital distribution platform for video games and films. It is operated by GOG
 
 **Website**: https://www.gog.com/
 ___
-

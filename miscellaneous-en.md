@@ -58,3 +58,23 @@
 - [ ] [vfio-pci-bind](https://github.com/andre-richter/vfio-pci-bind) - Automatically bind a PCI device and all of it's IOMMU group members to vfio-pci.
 
 - [ ] [Looking Glass](https://looking-glass.hostfission.com/) - Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
+
+- [ ] [RetroArch](https://www.retroarch.com) - A front-end for emulators, game engines, video games, media players and other applications, designed to be fast, lightweight, portable and without dependencies.
+
+- [ ] [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
+
+- [ ] [protontricks](https://github.com/Matoking/protontricks) - A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
+
+- [ ] [MSIKLM](https://github.com/Gibtnix/MSIKLM) - An easy-to-use tool that allows to configure the SteelSeries keyboards of MSI gaming notebooks with Linux / Unix in almost the same way as the SteelSeries Engine can do using Windows.
+
+- [ ] [Linux Steam* Integration](https://github.com/clearlinux/linux-steam-integration) - A helper system to make the Steam Client and Steam games run better on Linux. In a nutshell, LSI automatically applies various workarounds to get games working, and fixes long standing bugs in both games and the client.
+
+- [ ] [GameMode](https://github.com/FeralInteractive/gamemode) - A daemon/lib combo for Linux that allows games to request a set of optimisations be temporarily applied to the host OS.
+
+- [ ] [DXVK](https://github.com/doitsujin/dxvk) - A Vulkan-based translation layer for Direct3D 10/11 which allows running 3D applications on Linux using Wine.
+
+- [ ] [Bottlenose](https://github.com/quinton-ashley/bottlenose) - A high quality front-end launcher for video game emulators! Available on Linux, macOS, and Windows.
+
+- [ ] [keyleds](https://github.com/spectras/keyleds) - Logitech Keyboard per-key lighting control — G410, G610, G810, G910, GPro.
+
+- [ ] [itch.io](https://itch.io/) - A website for users to host, sell and download indie video games. Released in March 2013 by Leaf Corcoran.
