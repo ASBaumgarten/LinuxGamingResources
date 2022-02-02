@@ -48,3 +48,10 @@ Desktop client for Steam.
 **Website**: https://store.steampowered.com/about/
 ___
 
+## Heroic Games Launcher
+
+Crossplatform desktop client for accessing Epic Games Store and Library
+
+**Source**: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+
+**Website**: N/A
